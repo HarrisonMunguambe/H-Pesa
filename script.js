@@ -9,7 +9,7 @@
 
 // DIFFERENT DATA! Contains movement dates, currency and locale
 alert(
-  'Códigos de acesso as contas para testes: \n 1- User:hs PIN-1111 \n 2- User:jd PIN:2222 \n 3- User:tw PIN:23333 \n 4- User:ss PIN:4444'
+  'Códigos de acesso as contas para testes: \n 1- User:hs PIN-1111 \n 2- User:jd PIN:2222 \n 3- User:tw PIN:3333 \n 4- User:ss PIN:4444'
 );
 const account1 = {
   owner: 'Harrison Munguambe',
